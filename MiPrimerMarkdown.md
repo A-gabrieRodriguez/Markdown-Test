@@ -102,3 +102,6 @@ Usando un emoji :smile:
 <!--Mencionar a una persona -->
 @argabriel20
 @argabriel_2000
+
+
+[Lista de comandos Markdown por GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Comandos markdown")
