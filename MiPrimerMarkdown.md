@@ -103,5 +103,21 @@ Usando un emoji :smile:
 @argabriel20
 @argabriel_2000
 
+<!--Etiquetas especiales-->
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 
 [Lista de comandos Markdown por GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Comandos markdown")
